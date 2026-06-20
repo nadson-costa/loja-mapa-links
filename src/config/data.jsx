@@ -12,7 +12,7 @@ export const MAIN_LINKS = [
     label: 'Catálogo',
     description: 'Confira nossas peças e coleções',
     icon: <ShoppingBag size={18} />,
-    href: 'https://drive.google.com/drive/folders/1i7eCe4NleXFvwITU9sONYQMjGgTRBYIM?usp=sharing',
+    href: 'https://drive.google.com/drive/folders/1i7eCe4NleXFvwITU9sONYQMjGgTRBYIM',
     type: 'external',
   },
   {
